@@ -13,6 +13,9 @@
   - [Approach silently](#approach-silently)
   - [Try to steal his knife](#try-to-steal-his-knife)
   - [Try a stealthy attack](#try-a-stealthy-attack)
+  - [You find the exit](#you-find-the-exit)
+  - [Tell joke 1](#tell-joke-1)
+  - [Tell joke 2](#tell-joke-2)
 <!--toc:end-->
 
 ## Introduction
@@ -124,7 +127,11 @@ to go inside a maze with someone chasing you with a knife, however, you don't re
 there is no other way, avoiding the maze would mean slowing down to get around it and the man would
 most likely stab you to death.
 
-You enter the maze.
+You enter the maze, you have to find the exit !
+
+![Labyrinth](https://raw.githubusercontent.com/nytouu/english-book/master/maze.png)
+
+- [You find the exit](#you-find-the-exit)
 
 ## Go middle
 
@@ -187,3 +194,148 @@ what will you do ?
 - [Go middle](#go-middle)
 - [Go right](#go-right)
 
+## You find the exit
+
+You run for about ten minutes until you are out of breath. You slow down but you hear the menacing footsteps of the man that followed you ! You feel shivers down your spine. You slowly turn back to face the horrendous face of whom wants you dead. He’s looking at you, with his dreadful smile.
+
+“Hello again.”, he says.
+
+His voice is as sweet as jalapenos, you swear you could hear it inside your guts. His smell makes you want to throw up.
+You look at him with fear in your eyes. Now that he is not chasing you, you can finally question him.
+“Who are you ?”, you ask.
+His smile widens.
+“I am no one.”
+“But… You are someone, you’re human ! You must breath and walk because you have a human body !”, you cry out.
+Again, his awful laugh sounds all over the dark forest. A forest where you thought you could be safe and quietly sleeping.
+You ask yourself what may save your life. You think about what you’ve accomplished this far : not many. You think about your mom, your dad and your dog. All have always say that you’re their little clown. A clown… Ah ! You’re a genius. You’re going to tell the man a joke.
+
+You say : “I have a joke for you.”
+
+- [“Where do fruits go on vacation ?”](#tell-joke-1)
+- [“What do you call a fish wearing a bowtie ?”](#tell-joke-2)
+
+## Tell joke 1 
+
+You let him think about the answer.
+
+“Transylvania ? I like it there.”, he guesses.
+
+You smirk.
+
+“No. They go to Pear-is.”
+
+The man burst out laughing.
+
+“AHAHAHAHAH PARIS IN FRANCE !”
+
+He then folds himself in half. He keeps laughing for at least a minute.
+
+- [Wait until he can talk again](#wait-for-him)
+- [Push him back while he’s inattentive](#push-him)
+
+## Tell joke 2
+
+The man looks at you. He’s not smiling anymore.
+
+“That was a very poor joke, human. You aren’t funny to me.” 
+
+You look at him with horror
+
+The man seems more serious than ever while he slowly approaches you. You’re sos scared that you cannot move anymore. You feel terrified.
+
+“It is now time to die.”
+
+He raises his knife upon your face while his smile awakens.
+
+He stabs you to death.
+
+BAD ENDING: You die without getting to know the truth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 . Maybe he is now what he seems to be…
+
+## Wait for him
+
+ou wait for what seems like eternity until he finally stops laughing for your joke. 
+
+With an amused smirk upon his face, he looks at you.
+
+“You’re funny, little human.”
+
+“Thank you ?”, you answer.
+
+“I, too, have a joke to tell you. If you answer right, I shall let you go.”
+
+Finally, you feel a spark of hope alive inside you. You are going to live ! And come back to your friends, who must still sleep far away from you.
+
+You nod. You will guess it right. 
+
+The man smiles, and asks :
+
+“Tell me, what kind of shoes do ninjas wear ?”
+
+You think for a while. But you have the answer !
+
+- [Boots](#boots)
+- [Sneakers](#sneakers)
+- [Crocs](#crocks)
+
+## Push him
+
+You get up on your two feet and push him back while he’s laughing his butt off.
+The strange man falls on his back but doesn’t get up. Better than that, he seems to don’t move anymore. Have you killed him ?
+
+By the time you start to freak out, the man finally gets up.
+
+He doesn’t smile anymore. For you, he seems more normal than he used to be, he doesn't have that
+scary face anymore.
+
+“Where… Am I ?”, asks the man. He looks lost.
+
+The man finally notices you.
+
+“And who are you ?”
+
+## Boots
+
+The man waits a few seconds before speaking again. During those few moments, you feel like you’re going to explode.
+
+“Ah ! You’re wrong.”
+
+He smiles again. His horrendous smile will haunt you forever.
+
+“It was fun, but you lost. It’s your turn next.”
+
+He takes a few steps to get to you and puts his hand on your shoulder. The next thing you know, you go to sleep.
+
+## Crocks
+
+The man waits a few seconds before speaking again. During those few moments, you feel like you’re going to explode.
+
+“Ah ! You’re wrong.”
+
+He smiles again. His horrendous smile will haunt you forever.
+
+“It was fun, but you lost. It’s your turn next.”
+
+He takes a few steps to get to you and puts his hand on your shoulder. The next thing you know, you go to sleep.
+
+## Sneakers
+
+His smile widens. You didn’t know it could get more awful.
+
+“Yes ! That’s the answer. It’s so funny !”
+
+He bursts out laughing again.
+
+You get up on your two feet and push him back while he’s laughing his butt off.
+The strange man falls on his back but doesn’t get up. Better than that, he seems to don’t move anymore. Have you killed him ?
+
+By the time you start to freak out, the man finally gets up.
+
+He doesn’t smile anymore. For you, he seems more normal than he used to be.
+
+“Where… Am I ?”, asks the man. He seems lost.
+
+The man finally notices you.
+
+“And who are you ?”
+
+GOOD ENDING: You lived and defeated the ghost that possessed the man.
